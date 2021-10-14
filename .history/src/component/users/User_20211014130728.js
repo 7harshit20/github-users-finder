@@ -86,4 +86,4 @@ const User = ({ match }) => {
     )
 }
 
-export default User;
+export default User
